@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfflineQuiz", "OfflineQuiz.csproj", "{6DFD0A58-353F-4F07-AB1A-40FC28C9855B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfflineQuizTest", "..\OfflineQuizTest\OfflineQuizTest.csproj", "{B3F94D17-8BB3-4D3C-9497-E94BC3E97E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFD0A58-353F-4F07-AB1A-40FC28C9855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFD0A58-353F-4F07-AB1A-40FC28C9855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFD0A58-353F-4F07-AB1A-40FC28C9855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFD0A58-353F-4F07-AB1A-40FC28C9855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F94D17-8BB3-4D3C-9497-E94BC3E97E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F94D17-8BB3-4D3C-9497-E94BC3E97E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F94D17-8BB3-4D3C-9497-E94BC3E97E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F94D17-8BB3-4D3C-9497-E94BC3E97E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D98830-CAF5-4363-9268-930EF58F3C7D}
+	EndGlobalSection
+EndGlobal
